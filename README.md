@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel! 😄</h3>
 
-I'm self taught Fullstack .NET Developer. I like developing desktop applications and websites. My biggest project is 32bit operating system <a href="">Strayex</a>. Likes to play games and watch some good movies.
+I'm self taught Fullstack .NET Developer. I like developing desktop applications and websites. My biggest project is 32bit operating system <a href="https://github.com/StraykerPL/StrayexOS">Strayex</a>. Likes to play games and watch some good movies.
 
 <h3>My tech stack:</h3>
 <div style="display: inline;">
@@ -17,7 +17,7 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 
 <h3>More about my work:</h3>
 
-- 🔭 I’m currently working on: <a href="">Binder Solution</a>
+- 🔭 I’m currently working on: <a href="https://github.com/StraykerPL/Binder">Binder Solution</a>
 
 - 🌱 I’m currently learning: C# Async Programming
 
