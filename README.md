@@ -5,21 +5,21 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 <h3>My tech stack:</h3>
 <div style="display: inline;">
   <img src="https://simpleicons.org/icons/dotnet.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/c.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="https://simpleicons.org/icons/angular.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="https://simpleicons.org/icons/react.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/html5.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/css3.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/javascript.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/php.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/openjdk.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/wordpress.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="https://simpleicons.org/icons/c.svg" alt="Can't load icon! :(" width="50px" height="50px">
 </div>
 
 <h3>More about my work:</h3>
 
 - 🔭 I’m currently working on: <a href="https://github.com/StraykerPL/Binder">Binder Solution</a>
 
-- 🌱 I’m currently learning: C# Async Programming
+- 🌱 I’m currently learning: React + Next.js
 
 - 👯 I’m looking to collaborate on: some C# project
 
@@ -28,7 +28,7 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 <h3>📫 Reach me here:</h3>
 
 <a href="https://straykersoftware.pl">
-  <img src="https://img.shields.io/badge/My%20Website-https%3A%2F%2Fstraykersoftware.pl-brightgreen" alt="Can't load shield! :(">
+  <img src="https://img.shields.io/badge/%20Website-https%3A%2F%2Fstraykersoftware.pl-brightgreen" alt="Can't load shield! :(">
 </a>
 <a href="https://discord.gg/ytdkCVD">
   <img src="https://img.shields.io/badge/Discord-Lets%20talk!-blue" alt="Can't load shield! :(">
