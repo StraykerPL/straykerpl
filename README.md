@@ -10,7 +10,7 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
   <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/html5.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/css3.svg" alt="Can't load icon! :(" width="50px" height="50px">
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="Can't load icon! :(" width="50px" height="50px">
+  <img src="typescript.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/javascript.svg" alt="Can't load icon! :(" width="50px" height="50px">
   <img src="https://simpleicons.org/icons/c.svg" alt="Can't load icon! :(" width="50px" height="50px">
 </div>
