@@ -10,7 +10,7 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 
 Here is described what am I doing right now:
 
-| 🔭 Working on (personal): | 🔭 Working on (professional): | 🌱 Learning: |
+| 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
 |---------------------------|--------------------------------|--------------|
 | [straykerpl.github.io](https://straykerpl.github.io) | [Binder Solution](https://github.com/StraykerPL/Binder) | Microsoft Azure |
 
@@ -19,15 +19,11 @@ Here is described what am I doing right now:
 All projects on my profile are training/R&D projects. Professional projects are stored in [Strayker Software](https://github.com/Strayker-Software) organisation.
 Workflow on my profile's projects isn't consistent and isn't following organisation's workflow, so be prepared to see different boards structures, different ReadMe templates etc.
 
-### Personal Projects' Statuses
-
-| Project | Status |
-| ------- | ------ |
-
 ### 📫 Reach me here:
 
-[My personal website](https://straykerpl.github.io)
-[My organisation's website](https://straykersoftware.pl)
+<a href="https://straykerpl.github.io">
+  <img src="https://img.shields.io/badge/Personal%20Website-More%20about%20me!-blue" alt="Can't load shield! :(">
+</a>
 <a href="https://discord.gg/ytdkCVD">
-  <img src="https://img.shields.io/badge/Discord-Lets%20talk!-blue" alt="Can't load shield! :(">
+  <img src="https://img.shields.io/badge/Discord-Lets%20talk!-yellow" alt="Can't load shield! :(">
 </a>
