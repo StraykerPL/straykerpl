@@ -4,7 +4,7 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 
 ### My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,nextjs,materialui,react,html,sass,ts,github,md,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nextjs,materialui,react,jest,redux,angular,html,sass,ts,azure,svelte,docker,github,githubactions,mysql,md,git,figma)](https://skillicons.dev)
 
 ### About my work:
 
@@ -12,7 +12,7 @@ Here is described what am I doing right now:
 
 | 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
 |---------------------------|--------------------------------|--------------|
-| [straykerpl.github.io](https://straykerpl.github.io)</br>[WorldAdventure](https://github.com/StraykerPL/WorldAdventure) | [Binder Solution](https://github.com/StraykerPL/Binder) | Microsoft Azure |
+| [straykerpl.github.io](https://straykerpl.github.io)</br>[WorldAdventure](https://github.com/StraykerPL/WorldAdventure) | [Binder Solution](https://github.com/StraykerPL/Binder) | Microsoft Azure</br>Docker</br>Terraform</br>Svelte |
 
 ### My Workflow:
 
