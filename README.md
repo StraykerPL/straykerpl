@@ -12,7 +12,7 @@ Here is described what am I doing right now:
 
 | 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
 |---------------------------|--------------------------------|--------------|
-| [straykerpl.github.io](https://straykerpl.github.io)</br>[WorldAdventure](https://github.com/StraykerPL/WorldAdventure) | [Binder Solution](https://github.com/StraykerPL/Binder) | Microsoft Azure</br>Docker</br>Terraform</br>Svelte |
+| [JsonAdventure](https://github.com/StraykerPL/JsonAdventure) | [Binder Solution](https://github.com/StraykerPL/Binder)</br>Closed Source SaaS Application | Microsoft Azure</br>Docker |
 
 ### My Workflow:
 
