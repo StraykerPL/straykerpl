@@ -12,7 +12,7 @@ Here is described what am I doing right now:
 
 | 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
 |---------------------------|--------------------------------|--------------|
-| [Starlight](https://github.com/StraykerPL/Starlight)</br>[UniversalDataBlockchain](https://github.com/StraykerPL/UniversalDataBlockchain) | [Binder Solution](https://github.com/StraykerPL/Binder) | Microsoft Azure</br>AI + ML.NET</br>Blockchain |
+| [Starlight](https://github.com/StraykerPL/Starlight)</br>[UniversalDataBlockchain](https://github.com/StraykerPL/UniversalDataBlockchain) | - | Microsoft Azure</br>AI + ML.NET</br>Blockchain |
 
 ### My Workflow:
 
