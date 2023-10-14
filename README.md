@@ -11,8 +11,8 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 Here is described what am I doing right now:
 
 | 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
-|---------------------------|--------------------------------|--------------|
-| [Starlight](https://github.com/StraykerPL/Starlight)</br>[UniversalDataBlockchain](https://github.com/StraykerPL/UniversalDataBlockchain) | - | Microsoft Azure</br>AI + ML.NET</br>Blockchain |
+|---------------------------|-------------------------------|--------------|
+| [Starlight](https://github.com/StraykerPL/Starlight) | [Binder Solution](https://github.com/Strayker-Software/Binder) | DevOps</br>Project Management |
 
 ### My Workflow:
 
