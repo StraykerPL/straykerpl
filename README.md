@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel! 😃</h3>
 
-I'm self taught Fullstack .NET Developer. I like developing desktop applications and websites, discovering new technologies to achieve better results. Also keen on DevOps, Agile and Project Management. My biggest project is 32bit operating system <a href="https://github.com/StraykerPL/StrayexOS">Strayex</a>. Likes to play video games, watch some good movies and read Fantasy/Sci-Fi books.
+I'm self taught Fullstack .NET Developer. I like developing desktop applications and websites, discovering new technologies to achieve better results. Also keen on DevOps, Agile and Project Management. My biggest project is 32bit operating system <a href="https://github.com/Strayker-Software/StrayexOS">Strayex</a>. Likes to play video games, watch some good movies and read Fantasy/Sci-Fi books.
 
 ### My Tech Stack:
 
@@ -10,9 +10,9 @@ I'm self taught Fullstack .NET Developer. I like developing desktop applications
 
 Here is described what am I doing right now:
 
-| 🔭 Working on (personal): | 💻 Working on (professional): | 🌱 Learning: |
-|---------------------------|-------------------------------|--------------|
-| [Starlight](https://github.com/StraykerPL/Starlight) | [Binder Solution](https://github.com/Strayker-Software/Binder) | DevOps</br>Project Management |
+| 💻 Working on: | 🌱 Learning: |
+|-----------------|--------------|
+| [Binder Solution](https://github.com/Strayker-Software/Binder) | Project Management</br>DevOps</br>Azure |
 
 ### My Workflow:
 
